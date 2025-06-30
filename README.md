@@ -36,16 +36,6 @@ This project explores 2,500 users’ movie ratings using only built-in Python fu
 - `csv` and `json` packages only
 - No external dependencies
 
-## 🗂️ File Structure
-
-movie-ratings-analytics/
-│
-├── movie_ratings_project.ipynb # Main notebook
-├── ratings.csv # User-movie ratings
-├── movies.json # Movie metadata
-├── README.md # This file
-
-
 ## 📌 Future Improvements
 
 - 🧪 Add unit tests and validations
