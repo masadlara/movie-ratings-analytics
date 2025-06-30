@@ -8,6 +8,10 @@ Pure Python movie analytics engine and recommendation system built as part of th
 
 This project explores 2,500 users’ movie ratings using only built-in Python functions and the `csv` and `json` packages. It simulates a constrained coding environment where tools like pandas or NumPy are restricted. The core objectives include data wrangling, analytics, and building a simple recommender engine.
 
+> 📌 **Final Notebook**  
+> For the cleaned, fully annotated, and final version of this project, please see  
+> 👉 [movie_ratings_final.ipynb](./movie_ratings_final.ipynb)
+
 ## 📊 Key Features
 
 - 🔍 Identifies most active and most critical users
