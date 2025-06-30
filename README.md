@@ -1,5 +1,7 @@
 # 🎬 Movie Ratings Analytics & Recommender System
 
+![Project Preview](preview.png)
+
 Pure Python movie analytics engine and recommendation system built as part of the MSc module *ECS7023P: Programming for Data Science & AI* at Queen Mary University of London.
 
 ## 🚀 Project Summary
